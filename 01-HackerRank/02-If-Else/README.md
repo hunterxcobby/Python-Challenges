@@ -1,4 +1,4 @@
-# Number Classification
+# Number Classification Challenge
 
 Given an integer, `n`, perform the following conditional actions:
 
